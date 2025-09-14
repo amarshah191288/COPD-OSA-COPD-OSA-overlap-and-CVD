@@ -1,0 +1,19 @@
+﻿MedCodeId,Term
+100716012,Body mass index
+253847018,Body mass index index 25-29 - overweight
+253848011,Body mass index 30+ - obesity
+453856012,Body mass index less than 20
+2160062010,Body mass index 40+ - severely obese
+2474325012,Body mass index 20-24 - normal
+923861000000000,Body mass index
+1551650000000000,Body mass index centile
+1808060000000000,Body mass index less than 18.5
+1808070000000000,Body mass index 18.5-24.9
+4553700000000000,Body mass index 25-29 - overweight
+6763390000000000,Body mass index 40+ - morbidly obese
+7068840000000000,Body mass index less than 16.5
+923851000000000,O/E - weight
+11905000000000000,O/E - weight
+923831000000000,O/E - height
+11905100000000000,O/E - height
+253866018,Height and weight

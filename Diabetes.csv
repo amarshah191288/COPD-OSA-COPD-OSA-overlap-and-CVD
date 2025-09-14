@@ -1,0 +1,504 @@
+medcodeid,term,cleansedreadcode,"diabetes code (1,2,3 diabetes other or unspecified"
+x459292011,Type 1 diabetes mellitus with arthropathy,C10EH00                                                         ,1
+x14083741000006114,Ketoacidosis due to type 1 diabetes mellitus,,1
+x616441000006113,Peripheral vascular disorder due to diabetes mellitus,C107.00                                                         ,3
+x84691000006115,Cataract due to diabetes mellitus type 1,C108F11                                                         ,1
+x11998631000006118,"CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack) score",,2
+x14060651000006114,Complication due to diabetes mellitus,,3
+x913911000006110,Type I diabetes mellitus with diabetic cataract,C10EF11                                                         ,1
+x914151000006112,Retinopathy with type 2 diabetes mellitus,C10F600                                                         ,2
+x85001000006117,Type II diabetes mellitus with ulcer,C109411                                                         ,2
+x84631000006119,Type 2 diabetes mellitus with ulcer,C109412                                                         ,2
+x14083961000006111,Gangrene due to type 2 diabetes mellitus,,2
+x14057821000006112,Radiculoplexus neuropathy due to diabetes mellitus,,3
+x84331000006112,Type 1 diabetes mellitus with gangrene,C108612                                                         ,1
+x84311000006118,Type 1 diabetes mellitus with arthropathy,C108H12                                                         ,1
+x1707491000000116,Suspected diabetes mellitus,1JL..00                                                         ,3
+x8440231000006115,Eating disorder co-occurrent with diabetes mellitus type 1,,1
+x913481000006113,Type 1 diabetes mellitus with ophthalmic complications,C10E100                                                         ,1
+x418920011,History of diabetes mellitus in child of subject,13L4.11                                                         ,1
+x84721000006113,Mononeuropathy with type 1 diabetes mellitus,C108B11                                                         ,1
+x7281511000006118,Type 2 diabetes mellitus uncontrolled,,2
+x12702381000006118,Diabetic oculopathy due to type I diabetes mellitus,,1
+x280571000006116,Non-insulin dependent diabetes mellitus,C109.00                                                         ,2
+x14084121000006118,Skin ulcer due to diabetes mellitus,,3
+x12705081000006111,Gastroparesis due to type 2 diabetes mellitus,,2
+x84541000006111,Type 2 diabetes mellitus with multiple complications,C109312                                                         ,2
+x2156000010,"Lipodystrophy, partial, with Rieger anomaly, short stature, and insulinopenic diabetes mellitus",,1
+x1488898011,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,C10FK00                                                         ,2
+x928551000006115,Type II diabetes mellitus with persistent proteinuria,C10FL11                                                         ,2
+x938311000006112,Type I diabetes mellitus with exudative maculopathy,C10EP11                                                         ,1
+x292478012,Other specified diabetes mellitus with ketoacidosis,C101y00                                                         ,3
+x14059421000006119,Proliferative retinopathy due to diabetes mellitus,,3
+x13790071000006114,Neuropathic arthropathy due to diabetes mellitus,,3
+x914231000006111,Type II diabetes mellitus with mononeuropathy,C10FA11                                                         ,2
+x11998561000006114,"Assessment using CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack) score",,2
+x928511000006116,Type I diabetes mellitus with ketoacidosis,C10EM11                                                         ,1
+x292590011,Type II diabetes mellitus poorly controlled,C10F700                                                         ,2
+x13833601000006113,Hyperosmolar coma due to diabetes mellitus,,2
+x7708081000006116,Gastroparesis due to diabetes mellitus,,3
+x84471000006119,Type 2 diabetes mellitus,C109.12                                                         ,2
+x189721000000113,Secondary diabetes mellitus without complication,C10N000                                                         ,2
+x13949611000006116,No maculopathy of left eye due to diabetes mellitus,,3
+x3514795011,Hyperosmolar hyperglycaemic coma due to diabetes mellitus without ketoacidosis,,2
+x12705021000006112,Clinically significant macular oedema of right eye due to diabetes mellitus,,3
+x12085921000006112,Clinically significant macular oedema of left eye due to diabetes mellitus,,3
+x8026061000006112,Heel AND/OR midfoot ulcer due to type 1 diabetes mellitus,,1
+x14083931000006119,Hypoglycaemic coma due to type 1 diabetes mellitus,,1
+x11633211000006112,Atypical diabetes mellitus,,3
+x914041000006111,Type II diabetes mellitus with renal complications,C10F011                                                         ,2
+x1230929011,Secondary pancreatic diabetes mellitus,C10G.00                                                         ,3
+x12185421000006113,Polyneuropathy due to diabetes mellitus,,3
+x8027391000006115,Chronic kidney disease stage 1 due to type 1 diabetes mellitus,,1
+x1667891000000113,Hyperosmolar non-ketotic state in type II diabetes mellitus,C10FK11                                                         ,2
+x8118151000006112,Hyperosmolarity co-occurrent and due to drug induced diabetes mellitus,,3
+x84811000006114,Type I diabetes mellitus with retinopathy,C108711                                                         ,1
+x928561000006118,Persistent microalbuminuria associated with type 2 diabetes mellitus,C10FM00                                                         ,2
+x928571000006113,Type II diabetes mellitus with persistent microalbuminuria,C10FM11                                                         ,2
+x938301000006114,Exudative maculopathy with type 1 diabetes mellitus,C10EP00                                                         ,1
+x913841000006116,Renal disorder associated with type 1 diabetes mellitus,C10ED00                                                         ,1
+x84391000006111,Type 1 diabetes mellitus with neuropathic arthropathy,C108J12                                                         ,1
+x914051000006113,Disorder of eye with type 2 diabetes mellitus,C10F100                                                         ,2
+x913511000006117,Type 1 diabetes mellitus with neurological complications,C10E200                                                         ,1
+x913521000006113,Neurological disorder with type 1 diabetes mellitus,C10E211                                                         ,1
+x306113018,"Pre-existing diabetes mellitus, non-insulin-dependent",L180600                                                         ,2
+x8077141000006113,Proteinuria due to type 1 diabetes mellitus,,1
+x1850931000006111,Reason for influenza vaccine - diabetes mellitus,,3
+x14073091000006112,Hypoglycaemia due to diabetes mellitus,,3
+x459313016,Type 2 diabetes mellitus with neuropathic arthropathy,C10FH00                                                         ,2
+x8044061000006119,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus,,2
+x4392221000006118,Peripheral angiopathy due to diabetes mellitus,,3
+x7966931000006114,Angina associated with type 2 diabetes mellitus,,2
+x292484010,Hyperosmolar coma associated with diabetes mellitus,C102z00                                                         ,3
+x459308015,Type 2 diabetes mellitus with peripheral angiopathy,C10FF00                                                         ,2
+x8438201000006114,Type 2 diabetes mellitus risk assessment invitation second letter,,2
+x459312014,Type II diabetes mellitus with neuropathic arthropathy,C10FH11                                                         ,2
+x96244016,Protein-deficient diabetes mellitus,,3
+x8120401000006111,Hyperosmolar coma due to secondary diabetes mellitus,,2
+x280561000006111,Non-insulin-dependent diabetes mellitus with peripheral angiopathy,C109F00                                                         ,2
+x913941000006114,Peripheral angiopathy due to type 1 diabetes mellitus,C10EG11                                                         ,1
+x928471000006114,Type I diabetes mellitus with persistent proteinuria,C10EK11                                                         ,1
+x84991000006112,Type II diabetes mellitus with retinopathy,C109611                                                         ,2
+x292538019,Type I diabetes mellitus with ulcer,C10E511                                                         ,1
+x7098211000006116,Dietary education for type 1 diabetes mellitus,,1
+x8264221000006117,Management of gestational diabetes mellitus,,3
+x8016601000006114,Postpartum gestational diabetes mellitus,,3
+x84871000006117,Cataract due to diabetes mellitus type 2,C109E11                                                         ,2
+x913901000006112,Type 1 diabetes mellitus with diabetic cataract,C10EF00                                                         ,1
+x928591000006114,Type II diabetes mellitus with ketoacidosis,C10FN11                                                         ,2
+x7480741000006116,History of maturity onset diabetes mellitus in young,,3
+x354316011,Kidney disorder due to diabetes mellitus,C314.11                                                         ,3
+x303846016,Nephrotic syndrome in diabetes mellitus,K01x100                                                         ,3
+x84291000006117,Type 1 diabetes mellitus - poor control,C108812                                                         ,1
+x913891000006113,Insulin dependent diabetes mellitus with diabetic cataract,C10EF12                                                         ,1
+x8026041000006113,Forefoot ulcer due to type 2 diabetes mellitus,,2
+x1782641000006118,"CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) stroke risk score",38DE000                                                         ,2
+x3636751012,Acute complication with diabetes mellitus,,3
+x84941000006115,Type II diabetes mellitus with neuropathic arthropathy,C109H11                                                         ,2
+x84651000006114,Type I diabetes mellitus,C108.13                                                         ,1
+x8024771000006113,Rubeosis iridis due to type 1 diabetes mellitus,,1
+x299601000000114,Gastroparesis with type 1 diabetes mellitus,C10EQ00                                                         ,1
+x14084101000006111,Disorder of eye due to type 2 diabetes mellitus,,2
+x356110010,"Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness",,1
+x2128081000000111,Gestational diabetes mellitus annual review,66Ay.00                                                         ,3
+x14072591000006111,Disorder of macula due to diabetes mellitus,,3
+x1757221000006115,Suspected diabetes mellitus,,3
+x12626341000006114,QOF (Quality and Outcomes Framework) diabetes mellitus quality indicator-related care invitation,,3
+x299621000000117,Gastroparesis with type 2 diabetes mellitus,C10FR00                                                         ,2
+x14071441000006113,Cellulitis of foot due to diabetes mellitus,,3
+x4539561000006114,History of diabetes mellitus,,
+x914071000006115,Neurologic disorder associated with type 2 diabetes mellitus,C10F200                                                         ,
+x292543014,Type I diabetes mellitus with gangrene,C10E611                                                         ,
+x84921000006110,Renal disorder due to type 2 diabetes mellitus,C109C11                                                         ,
+x12102571000006117,Clinically significant macular oedema with diabetes mellitus,,
+x772181000006112,Insulin dependent diabetes mellitus - poor control,C108800                                                         ,
+x6953871000006115,Ketoacidosis in diabetes mellitus,,
+x850691000006118,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,C109K00                                                         ,
+x84441000006110,Type 1 diabetes mellitus with retinopathy,C108712                                                         ,
+x292553010,Type 1 diabetes mellitus maturity onset,C10E900                                                         ,
+x8027521000006110,Microalbuminuria due to type 2 diabetes mellitus,,
+x292582011,Type II diabetes mellitus with gangrene,C10F511                                                         ,
+x913791000006119,Type I diabetes mellitus with mononeuropathy,C10EB11                                                         ,
+x82979011,Neonatal diabetes mellitus,Q441.00                                                         ,
+x292540012,Type 1 diabetes mellitus with ulcer,C10E500                                                         ,
+x459293018,Insulin dependent diabetes mellitus with arthropathy,C10EH12                                                         ,
+x281161000006114,Non-insulin depend diabetes mellitus with diabetic cataract,C109E00                                                         ,
+x459309011,Non-insulin dependent diabetes mellitus with arthropathy,C109G00                                                         ,
+x84571000006115,Type 2 diabetes mellitus with neuropathic arthropathy,C109H12                                                         ,
+x1227610014,[V]Family history of diabetes mellitus (DM),ZV18011                                                         ,
+x914311000006114,Type II diabetes mellitus with diabetic cataract,C10FE11                                                         ,
+x14083811000006118,Persistent microalbuminuria due to type 2 diabetes mellitus,,
+x928611000006115,Ketoacidotic coma in type II diabetes mellitus,C10FP11                                                         ,
+x14077731000006117,High risk proliferative retinopathy due to diabetes mellitus,,
+x459161015,Type 1 diabetes mellitus with hypoglycaemic coma,C10EE00                                                         ,
+x292550013,Type I diabetes mellitus - poor control,C10E811                                                         ,
+x14077691000006113,Mild nonproliferative retinopathy due to diabetes mellitus,,
+x914391000006116,Insulin treated Type 2 diabetes mellitus,C10FJ00                                                         ,
+x14084091000006117,Disorder of nervous system due to diabetes mellitus,,
+x772161000006119,Insulin dependent diabetes mellitus,C100011                                                         ,
+x913781000006117,Type 1 diabetes mellitus with mononeuropathy,C10EB00                                                         ,
+x914221000006113,Type 2 diabetes mellitus with mononeuropathy,C10FA00                                                         ,
+x259365016,Glucose tolerance test indicates diabetes mellitus,44V3.00                                                         ,
+x72711000006117,Unstable type 1 diabetes mellitus,C108412                                                         ,
+x8035211000006110,Dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus,,
+x8006221000006115,Microalbuminuria due to type 1 diabetes mellitus,,
+x2575261000006118,Maternal diabetes mellitus with hypoglycaemia affecting foetus OR newborn,,
+x292583018,Type 2 diabetes mellitus with gangrene,C10F500                                                         ,
+x913831000006114,Insulin dependent diabetes mellitus with nephropathy,C10ED12                                                         ,
+x1848531000006116,"Diabetes insipidus, diabetes mellitus, optic atrophy and deafness",PKyP.00                                                         ,
+x251591016,H/O: diabetes mellitus,1434,
+x1223148019,Insulin treated non-insulin dependent diabetes mellitus,C109J11                                                         ,
+x461270012,[V]Screening for diabetes mellitus,ZV77100                                                         ,
+x14084061000006113,Retinopathy due to type 2 diabetes mellitus,,
+x1988741000006117,Pregnancy and non-insulin-dependent diabetes mellitus,,
+x12734341000006113,QOF (Quality and Outcomes Framework) diabetes mellitus quality indicator-related care invitation using preferred method of communication,,
+x914161000006114,Type II diabetes mellitus with retinopathy,C10F611                                                         ,
+x771491000006110,Insulin-dependent diabetes mellitus with ophthalmic comps,C108100                                                         ,
+x84641000006112,Type 2 diabetes mellitus without complication,C109912                                                         ,
+x801901000006119,Gestational diabetes mellitus,L180811                                                         ,
+x84911000006119,Type II diabetes mellitus with multiple complications,C109311                                                         ,
+x14057771000006116,Lumbosacral radiculoplexus neuropathy due to diabetes mellitus,,
+x913851000006119,Type I diabetes mellitus with nephropathy,C10ED11                                                         ,
+x84531000006118,Type 2 diabetes mellitus with mononeuropathy,C109A12                                                         ,
+x4796321000006113,Pre-existing type 2 diabetes mellitus,,
+x12078931000006114,Cataract of left eye due to diabetes mellitus,,
+x2532967014,Clinically significant macular oedema of right eye due to diabetes mellitus,2BBm.00                                                         ,
+x12085031000006111,Preproliferative retinopathy of right eye co-occurrent and due to diabetes mellitus,,
+x12704411000006113,Peripheral circulatory disorder associated with diabetes mellitus,,
+x928541000006117,Persistent proteinuria associated with type 2 diabetes mellitus,C10FL00                                                         ,
+x84861000006112,Type II diabetes mellitus with arthropathy,C109G11                                                         ,
+x887971000006115,Preg.+ diabetes mellitus,L180.99                                                         ,
+x787111000006112,IDDM-Insulin dependent diabetes mellitus,C108.11                                                         ,
+x13771000006110,Other specified diabetes mellitus with ophthalmic complicatn,C105y00                                                         ,
+x84781000006112,Type I diabetes mellitus with peripheral angiopathy,C108G11                                                         ,
+x280541000006112,Non-insulin dependent diabetes mellitus with polyneuropathy,C109B00                                                         ,
+x913551000006116,Type I diabetes mellitus with multiple complications,C10E311                                                         ,
+x11928821000006114,"CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category) stroke risk score",,
+x641581000006115,Non-insulin-dependent diabetes mellitus with retinopathy,C109600                                                         ,
+x2686101000006116,GDM - Gestational diabetes mellitus,,
+x771371000006118,Insulin dependent diabetes mellitus with mononeuropathy,C108B00                                                         ,
+x913681000006111,Insulin dependent diabetes mellitus - poor control,C10E812                                                         ,
+x7288191000006110,Type 2 diabetes mellitus well controlled,,
+x14092441000006112,Disorder of left macula due to diabetes mellitus,,
+x14056961000006112,Ketoacidotic coma due to diabetes mellitus,,
+x197984010,Type 1 diabetes mellitus,C10E.00                                                         ,
+x84461000006114,Type 1 diabetes mellitus without complication,C108A12                                                         ,
+x84621000006117,Type 2 diabetes mellitus with retinopathy,C109612                                                         ,
+x2773644011,Family history of diabetes mellitus type 1,1252000,
+x2288011000000114,Type I diabetes mellitus in remission,C10P000                                                         ,
+x13788911000006117,Family history of diabetes mellitus,,
+x84711000006117,Type I diabetes mellitus with hypoglycaemic coma,C108E11                                                         ,
+x8048421000006113,Proteinuria due to type 2 diabetes mellitus,,
+x14083771000006118,Exudative maculopathy due to type 1 diabetes mellitus,,
+x2817479019,Hyperglycaemic crisis in diabetes mellitus,,
+x2203931000000113,High risk of diabetes mellitus annual review,66Az.00                                                         ,
+x719571000006115,Malnutrition-related diabetes mellitus with renal complications,C10A200                                                         ,
+x251884012,At risk of diabetes mellitus,14O8.00                                                         ,
+x771391000006117,Insulin dependent diabetes mellitus with nephropathy,C108D00                                                         ,
+x459311019,Type II diabetes mellitus with arthropathy,C10FG11                                                         ,
+x13767911000006119,Disorder of eye due to diabetes mellitus,,
+x913651000006115,Insulin dependent diabetes mellitus with retinopathy,C10E712                                                         ,
+x13810181000006111,Macular oedema due to diabetes mellitus,,
+x913451000006117,Type 1 diabetes mellitus with renal complications,C10E000                                                         ,
+x13488541000006117,Nonproliferative retinopathy of left eye due to diabetes mellitus,,
+x292579018,Type 2 diabetes mellitus with ulcer,C10F400                                                         ,
+x84671000006116,Type I diabetes mellitus maturity onset,C108911                                                         ,
+x2243331000000115,Erectile dysfunction due to diabetes mellitus,K27y700                                                         ,
+x1678621000006111,"CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack) score",38DE.00                                                         ,
+x14071371000006113,Advanced maculopathy due to diabetes mellitus,,
+x459310018,Type 2 diabetes mellitus with arthropathy,C10FG00                                                         ,
+x771361000006113,Insulin dependent diabetes mellitus with hypoglycaemic coma,C108E00                                                         ,
+x281181000006116,Non-insulin dependent diabetes mellitus with neuropathic arthropathy,C109H00                                                         ,
+x459294012,Type I diabetes mellitus with arthropathy,C10EH11                                                         ,
+x356078011,Secondary endocrine diabetes mellitus,,
+x14092491000006115,Erectile dysfunction due to diabetes mellitus,,
+x7966611000006114,Chronic kidney disease stage 5 due to type 2 diabetes mellitus,,
+x84971000006111,Type II diabetes mellitus with polyneuropathy,C109B11                                                         ,
+x622051000000118,History of gestational diabetes mellitus,ZV13F00                                                         ,
+x587521000006111,Non-insulin-dependent diabetes mellitus with renal comps,C109000                                                         ,
+x84891000006116,Type II diabetes mellitus with hypoglycaemic coma,C109D11                                                         ,
+x14071551000006111,Ischaemic ulcer of foot due to diabetes mellitus,,
+x938321000006116,Exudative maculopathy associated with type 2 diabetes mellitus,C10FQ00                                                         ,
+x14015311000006110,Coronary artery disease due to type 2 diabetes mellitus,,
+x913441000006119,Insulin-dependent diabetes mellitus with renal complications,C10E012                                                         ,
+x914271000006114,Type II diabetes mellitus with nephropathy,C10FC11                                                         ,
+x771341000006114,Insulin dependent diabetes mellitus with diabetic cataract,C108F00                                                         ,
+x8120431000006115,Mild nonproliferative retinopathy due to secondary diabetes mellitus,,
+x928491000006110,Type I diabetes mellitus with persistent microalbuminuria,C10EL11                                                         ,
+x8027491000006113,Chronic kidney disease stage 5 due to type 1 diabetes mellitus,,
+x1227774019,[V]Dietary counselling in diabetes mellitus,ZV65312                                                         ,
+x14079871000006119,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus,,
+x7306751000006110,Brittle type 2 diabetes mellitus,,
+x84791000006110,Polyneuropathy due to diabetes mellitus type I,C108C11                                                         ,
+x84831000006115,Type I diabetes mellitus without complication,C108A11                                                         ,
+x12085891000006118,Clinically significant macular oedema of right eye co-occurrent and due to diabetes mellitus,,
+x77727018,Insulin dependent diabetes mellitus,C10E.12                                                         ,
+x928601000006118,Ketoacidotic coma in type 2 diabetes mellitus,C10FP00                                                         ,
+x771411000006117,Insulin dependent diabetes mellitus with retinopathy,C108700                                                         ,
+x1994041000006110,High risk of diabetes mellitus annual review declined,,
+x1227832019,[V]Screening for diabetes mellitus (DM),ZV77111                                                         ,
+x771401000006115,Insulin dependent diabetes mellitus with polyneuropathy,C108C00                                                         ,
+x280551000006114,Non-insulin-dependent diabetes mellitus with ulcer,C109400                                                         ,
+x12363701000006117,Gastroparesis with diabetes mellitus,,
+x8438161000006115,Type 2 diabetes mellitus risk assessment invitation,,
+x1780311019,Type 1 diabetes mellitus with persistent microalbuminuria,C10EL00                                                         ,
+x13811000006110,Other specified diabetes mellitus with unspecified comps,C10zy00                                                         ,
+x14077711000006111,Severe nonproliferative retinopathy due to diabetes mellitus,,
+x84881000006119,Type II diabetes mellitus with gangrene,C109511                                                         ,
+x20191016,Gestational diabetes mellitus,L180900                                                         ,
+x841351000006110,Insulin treated Type II diabetes mellitus,C109J12                                                         ,
+x587111000006111,Non-insulin-dependent diabetes mellitus with ophthalm comps,C109100                                                         ,
+x356111014,Insulin-dependent diabetes mellitus secretory diarrhoea syndrome,,
+x720311000006119,Malnutrit-relat diabetes mellitus with other spec comps,C10AX00                                                         ,
+x14083911000006113,Disorder of nervous system due to type 2 diabetes mellitus,,
+x84341000006119,Type 1 diabetes mellitus with hypoglycaemic coma,C108E12                                                         ,
+x292576013,Type II diabetes mellitus with multiple complications,C10F311                                                         ,
+x3719631000006112,"Gestational diabetes mellitus, class A>1<",,
+x914241000006118,Polyneuropathy due to type 2 diabetes mellitus,C10FB00                                                         ,
+x280581000006118,Non-insulin-dependent diabetes mellitus with multiple complications,C109300                                                         ,
+x84381000006113,Type 1 diabetes mellitus with neurological complications,C108212                                                         ,
+x292541011,Type 1 diabetes mellitus with gangrene,C10E600                                                         ,
+x8033291000006116,Pre-existing diabetes mellitus in mother complicating childbirth,,
+x14073071000006111,Severe hyperglycaemia due to diabetes mellitus,,
+x7708051000006112,Gastroparesis due to diabetes mellitus type I,,
+x3636752017,Acute complication co-occurrent and due to diabetes mellitus,,
+x2867431000006112,Insulin dependent diabetes mellitus type IA,,
+x84981000006114,Type II diabetes mellitus with renal complications,C109011                                                         ,
+x7086001000006113,Dietary education for type 2 diabetes mellitus,,
+x616421000006118,Eye disorder due to diabetes mellitus,C105.00                                                         ,
+x913671000006113,Type I diabetes mellitus with retinopathy,C10E711                                                         ,
+x8119331000006114,Hyperglycaemia due to type 1 diabetes mellitus,,
+x292581016,Type II diabetes mellitus with ulcer,C10F411                                                         ,
+x84901000006117,Mononeuropathy with type 2 diabetes mellitus,C109A11                                                         ,
+x84771000006114,Disorder of eye with type 1 diabetes mellitus,C108111                                                         ,
+x914081000006117,Type II diabetes mellitus with neurological complications,C10F211                                                         ,
+x292551012,Type I diabetes mellitus maturity onset,C10E911                                                         ,
+x913531000006111,Insulin dependent diabetes mellitus with multiple complicat,C10E312                                                         ,
+x84421000006115,Type 1 diabetes mellitus with polyneuropathy,C108C12                                                         ,
+x281171000006119,Type II diabetes mellitus uncontrolled,C109700                                                         ,
+x84851000006110,Type II diabetes mellitus - poor control,C109711                                                         ,
+x2159979014,Maculopathy of right eye with diabetes mellitus,2BBW.00                                                         ,
+x8240511000006110,H/O: secondary diabetes mellitus,,
+x719541000006111,Malnutrition-related diabetes mellitus with coma,C10A000                                                         ,
+x7480661000006114,H/O diabetes mellitus type 2,,
+x84841000006113,Type II diabetes mellitus,C109.13                                                         ,
+x73466011,Non-insulin dependent diabetes mellitus,C100112                                                         ,
+x14083941000006112,Disorder of nervous system due to type 1 diabetes mellitus,,
+x84321000006114,Type 1 diabetes mellitus with diabetic cataract,C108F12                                                         ,
+x306114012,Pre-existing malnutrition-related diabetes mellitus,L180700                                                         ,
+x2867421000006114,Insulin dependent diabetes mellitus type 1A,,
+x2575271000006113,Maternal diabetes mellitus with hypoglycemia affecting fetus OR newborn,,
+x2174191000000118,High risk of diabetes mellitus,14O8000                                                         ,
+x292606016,Malnutrition-related diabetes mellitus with ketoacidosis,C10A100                                                         ,
+x84551000006113,Type 2 diabetes mellitus with nephropathy,C109C12                                                         ,
+x14092431000006119,Disorder of right macula due to diabetes mellitus,,
+x84581000006117,Type 2 diabetes mellitus with ophthalmic complications,C109112                                                         ,
+x498512013,Genetic syndromes of diabetes mellitus,,
+x772171000006114,Insulin dependent diabetes mellitus,C108.00                                                         ,
+x292495016,Other specified diabetes mellitus with renal complications,C104y00                                                         ,
+x12166111000006116,Retinopathy due to diabetes mellitus,,
+x913801000006118,Insulin dependent diabetes mellitus with polyneuropathy,C10EC12                                                         ,
+x913501000006115,Insulin-dependent diabetes mellitus with neurological comps,C10E212                                                         ,
+x281211000006117,Gangrene associated with type 2 diabetes mellitus,C109500                                                         ,
+x913931000006116,Type 1 diabetes mellitus with peripheral angiopathy,C10EG00                                                         ,
+x84741000006118,Type I diabetes mellitus with nephropathy,C108D11                                                         ,
+x459169018,Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II,C10FD11                                                         ,
+x719531000006118,Malnutrition related diabetes mellitus,C10A.00                                                         ,
+x280531000006119,Non-insulin dependent diabetes mellitus with nephropathy,C109C00                                                         ,
+x8438281000006117,Type 2 diabetes mellitus risk assessment invitation SMS (short message service) text message,,
+x280591000006115,Non-insulin-dependent diabetes mellitus with neuro comps,C109200                                                         ,
+x14077381000006115,Hyperosmolar non-ketotic state due to diabetes mellitus,,
+x14085781000006119,Macroalbuminuric nephropathy due to diabetes mellitus,,
+x396661000006115,Malnutrition-related diabetes mellitus with multiple complications,Cyu2100                                                         ,
+x494564012,Type I diabetes mellitus,C10E.11                                                         ,
+x913771000006115,Insulin dependent diabetes mellitus with mononeuropathy,C10EB12                                                         ,
+x11633221000006116,ADM - atypical diabetes mellitus,,
+x14083991000006115,Ketoacidosis due to type 2 diabetes mellitus,,
+x2288061000000111,Type II diabetes mellitus in remission,C10P100                                                         ,
+x771381000006115,Insulin dependent diabetes mellitus with multiple complicatn,C108300                                                         ,
+x719591000006119,Malnutrition-related diabetes mellitus wth neuro complicatns,C10A400                                                         ,
+x7969001000006112,Foot ulcer due to type 2 diabetes mellitus,,
+x13832391000006118,Infection of foot due to diabetes mellitus,,
+x84731000006111,Multiple complications of type 1 diabetes mellitus,C108311                                                         ,
+x7966791000006111,Chronic kidney disease stage 1 due to type 2 diabetes mellitus,,
+x12300391000006115,Macular oedema not clinically significant with diabetes mellitus,,
+x771501000006119,Insulin-dependent diabetes mellitus with renal complications,C108000                                                         ,
+x72651000006114,Unstable insulin dependent diabetes mellitus,C108400                                                         ,
+x14072621000006113,Traction detachment of retina due to diabetes mellitus,,
+x14067581000006118,Disorder of kidney due to diabetes mellitus,,
+x457326014,Type 1 diabetes mellitus without complication,C10EA00                                                         ,
+x13791000006111,Other specified diabetes mellitus with periph circ comps,C107y00                                                         ,
+x2288041000000110,Type 1 diabetes mellitus in remission,C10P011                                                         ,
+x14077861000006116,Focal exudative maculopathy due to diabetes mellitus,,
+x928461000006119,Persistent proteinuria associated with type 1 diabetes mellitus,C10EK00                                                         ,
+x84281000006115,Type 1 diabetes mellitus,C108.12                                                         ,
+x14073101000006118,Nocturnal hypoglycaemia due to diabetes mellitus,,
+x616501000006112,Disorder due to type 2 diabetes mellitus,C10z100                                                         ,
+x8438181000006113,Type 2 diabetes mellitus risk assessment invitation first letter,,
+x5754581000006110,Brittle type 1 diabetes mellitus,,
+x7966571000006116,Mixed hyperlipidaemia associated with type II diabetes mellitus,,
+x280511000006113,Non-insulin dependent diabetes mellitus with hypoglyca coma,C109D00                                                         ,
+x84751000006116,Type I diabetes mellitus with neurological complications,C108211                                                         ,
+x84931000006113,Neurological disorder with diabetes type 2,C109211                                                         ,
+x2575281000006111,Maternal diabetes mellitus with hypoglycaemia affecting fetus OR newborn,,
+x84361000006115,Type 1 diabetes mellitus with multiple complications,C108312                                                         ,
+x429971019,Unstable type 1 diabetes mellitus,C10E400                                                         ,
+x12704971000006113,Neurologic disorder associated with type 2 diabetes mellitus,,
+x292577016,Type 2 diabetes mellitus with multiple complications,C10F300                                                         ,
+x14071331000006110,Chronic painful neuropathy due to diabetes mellitus,,
+x913811000006115,Type 1 diabetes mellitus with polyneuropathy,C10EC00                                                         ,
+x197761014,Type 2 diabetes mellitus,C10F.00                                                         ,
+x1751441000006116,Family history of diabetes mellitus type II,1252111,
+x84301000006116,Type 1 diabetes mellitus maturity onset,C108912                                                         ,
+x14058781000006117,Autonomic neuropathy due to diabetes mellitus,,
+x356119011,Abnormal metabolic state in diabetes mellitus,,
+x2683591000006110,Unstable diabetes mellitus,,
+x292488013,Coma associated with diabetes mellitus,C103y00                                                         ,
+x771481000006112,Insulin-dependent diabetes mellitus with neurological comps,C108200                                                         ,
+x8044221000006116,Ischaemic foot ulcer due to type 2 diabetes mellitus,,
+x938331000006118,Exudative maculopathy with type 2 diabetes mellitus,C10FQ11                                                         ,
+x84681000006118,Type I diabetes mellitus with arthropathy,C108H11                                                         ,
+x14077721000006115,Non-high-risk proliferative retinopathy due to diabetes mellitus,,
+x7065531000006115,Latent autoimmune diabetes mellitus in adult (LADA),,
+x84611000006113,Type 2 diabetes mellitus with renal complications,C109012                                                         ,
+x7480691000006118,H/O diabetes mellitus type 1,,
+x84701000006115,Type I diabetes mellitus with gangrene,C108611                                                         ,
+x14083831000006112,Retinopathy due to type 1 diabetes mellitus,,
+x914031000006118,Renal disorder associated with type II diabetes mellitus,C10F000                                                         ,
+x84521000006116,Type 2 diabetes mellitus with hypoglycaemic coma,C109D12                                                         ,
+x308110013,Pre-existing diabetes mellitus,Lyu2900                                                         ,
+x14070771000006115,Loss of hypoglycaemic warning due to diabetes mellitus,,
+x913591000006110,Skin ulcer associated with diabetes mellitus,C10E512                                                         ,
+x2967831017,Pre-existing type 1 diabetes mellitus in pregnancy,,
+x14071211000006113,Multiple complications due to type 2 diabetes mellitus,,
+x913661000006118,Retinopathy with type 1 diabetes mellitus,C10E700                                                         ,
+x913621000006112,Insulin dependent diabetes mellitus with gangrene,C10E612                                                         ,
+x928531000006110,Type I diabetes mellitus with ketoacidotic coma,C10EN11                                                         ,
+x914301000006111,Type 2 diabetes mellitus with diabetic cataract,C10FE00                                                         ,
+x14079681000006115,Nonproliferative retinopathy due to diabetes mellitus,,
+x429970018,Unstable type I diabetes mellitus,C10E411                                                         ,
+x7790731000006115,Maternal history of diabetes mellitus type 2,,
+x8044171000006110,Neuropathic toe ulcer due to type 2 diabetes mellitus,,
+x457328010,Non-insulin-dependent diabetes mellitus without complication,C109900                                                         ,
+x292548017,Type 1 diabetes mellitus - poor control,C10E800                                                         ,
+x7287611000006113,Type 1 diabetes mellitus uncontrolled,,
+x13953421000006114,At low risk of ulcer of left foot due to diabetes mellitus,,
+x14077701000006113,Moderate nonproliferative retinopathy due to diabetes mellitus,,
+x84401000006113,Type 1 diabetes mellitus with ophthalmic complications,C108112                                                         ,
+x616391000006114,Nervous system disorder due to diabetes mellitus,C106.00                                                         ,
+x2683561000006119,Brittle diabetes mellitus,,
+x3039971000006114,"Pineal hyperplasia, insulin-resistant diabetes mellitus and somatic abnormalities",,
+x213141000006111,"Pre-existing diabetes mellitus, unspecified",L180X00                                                         ,
+x306112011,"Pre-existing diabetes mellitus, insulin-dependent",L180500                                                         ,
+x2773645012,Family history of diabetes mellitus type 2,1252100,
+x72721000006113,Unstable type I diabetes mellitus,C108411                                                         ,
+x459296014,Type 1 diabetes mellitus with neuropathic arthropathy,C10EJ00                                                         ,
+x967701000006116,Lipoatrophic diabetes mellitus,C10M.00                                                         ,
+x928501000006119,Ketoacidosis in type 1 diabetes mellitus,C10EM00                                                         ,
+x13949641000006117,No maculopathy of right eye due to diabetes mellitus,,
+x459306016,Type II diabetes mellitus with peripheral angiopathy,C10FF11                                                         ,
+x622221000000118,Maternally inherited diabetes mellitus,C10FS00                                                         ,
+x616611000006111,Disorder due to type 1 diabetes mellitus,C10z000                                                         ,
+x84561000006110,Type 2 diabetes mellitus with neurological complications,C109212                                                         ,
+x1809221000006115,High risk of diabetes mellitus,,
+x14083781000006115,Persistent proteinuria due to type 1 diabetes mellitus,,
+x84961000006116,Type II diabetes mellitus with peripheral angiopathy,C109F11                                                         ,
+x7480721000006111,H/O gestational diabetes mellitus,,
+x84451000006112,Type 1 diabetes mellitus with ulcer,C108512                                                         ,
+x13488551000006115,Nonproliferative retinopathy of right eye due to diabetes mellitus,,
+x719481000006116,Malnutrit-related diabetes mellitus wth ophthalmic complicat,C10A300                                                         ,
+x459162010,Insulin dependent diabetes mellitus with hypoglycaemic coma,C10EE12                                                         ,
+x84801000006111,Type I diabetes mellitus with renal complications,C108011                                                         ,
+x9986011,Drug-induced diabetes mellitus,,
+x674961000006118,Peripheral circulatory disorder associated with type 2 diabetes mellitus,C107400                                                         ,
+x13751000006117,Other specified diabetes mellitus with multiple comps,C108y00                                                         ,
+x7966691000006116,Chronic kidney disease stage 3 due to type 2 diabetes mellitus,,
+x7500211000006117,Pre-existing diabetes mellitus in pregnancy,,
+x913491000006111,Type I diabetes mellitus with ophthalmic complications,C10E111                                                         ,
+x4636411000006110,Diet controlled diabetes mellitus,,
+x6961081000006118,Gangrene associated with type 1 diabetes mellitus,,
+x771351000006111,Insulin dependent diabetes mellitus with gangrene,C108600                                                         ,
+x84761000006119,Type I diabetes mellitus with neuropathic arthropathy,C108J11                                                         ,
+x84481000006116,Type 2 diabetes mellitus - poor control,C109712                                                         ,
+x84511000006112,Type 2 diabetes mellitus with gangrene,C109512                                                         ,
+x719561000006110,Malnutrition-related diabetes mellitus with multiple comps,C10A600                                                         ,
+x7966641000006113,Chronic kidney disease stage 4 due to type 2 diabetes mellitus,,
+x3513752015,Absence of lower limb due to diabetes mellitus,,
+x84661000006111,Type I diabetes mellitus poorly controlled,C108811                                                         ,
+x913541000006118,Type 1 diabetes mellitus with multiple complications,C10E300                                                         ,
+x914251000006116,Type II diabetes mellitus with polyneuropathy,C10FB11                                                         ,
+x913821000006111,Type I diabetes mellitus with polyneuropathy,C10EC11                                                         ,
+x13810171000006113,Vitreous haemorrhage due to diabetes mellitus,,
+x3513886018,"CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) score",,
+x12704991000006114,Ketoacidotic coma in type 2 diabetes mellitus,,
+x913461000006115,Type I diabetes mellitus with renal complications,C10E011                                                         ,
+x13966631000006113,Newly diagnosed type 1 diabetes mellitus,,
+x840951000006119,Insulin treated Type 2 diabetes mellitus,C109J00                                                         ,
+x928581000006111,Ketoacidosis in type 2 diabetes mellitus,C10FN00                                                         ,
+x189711000000119,Lipoatrophic diabetes mellitus without complication,C10M000                                                         ,
+x8438261000006110,Type 2 diabetes mellitus risk assessment telephone invitation,,
+x719601000006110,Malnutrition-related diabetes mellitus with peripheral circulatory complications,C10A500                                                         ,
+x459163017,Type I diabetes mellitus with hypoglycaemic coma,C10EE11                                                         ,
+x14090011000006118,Hypoglycaemic coma due to type 2 diabetes mellitus,,
+x2674067015,Latent autoimmune diabetes mellitus in adult,C10ER00                                                         ,
+x914261000006119,Diabetes type 2 with nephropathy,C10FC00                                                         ,
+x8438221000006116,Type 2 diabetes mellitus risk assessment invitation third letter,,
+x719471000006119,Malnutrit-related diabetes mellitus with unspec complics,C10AW00                                                         ,
+x459167016,Type 2 diabetes mellitus with hypoglycaemic coma,C10FD00                                                         ,
+x84951000006118,Disorder of eye with type 2 diabetes mellitus,C109111                                                         ,
+x13790061000006119,Neuropathic ulcer of foot due to diabetes mellitus,,
+x3258001000006116,"Gestational diabetes mellitus, class A>2<",,
+x429972014,Unstable insulin dependent diabetes mellitus,C10E412                                                         ,
+x1667941000000112,Type I diabetes mellitus with gastroparesis,C10EQ11                                                         ,
+x7863801000006113,Lumbosacral plexopathy co-occurrent and due to diabetes mellitus,,
+x493773010,NIDDM - Non-insulin dependent diabetes mellitus,C109.11                                                         ,
+x457325013,Type I diabetes mellitus without complication,C10EA11                                                         ,
+x1667921000000117,Type II diabetes mellitus with gastroparesis,C10FR11                                                         ,
+x84591000006119,Type 2 diabetes mellitus with peripheral angiopathy,C109F12                                                         ,
+x292612014,Malnutrition-related diabetes mellitus without complications,C10A700                                                         ,
+x6977421000006110,Ketoacidosis in type II diabetes mellitus,,
+x5109541000006118,Transient neonatal diabetes mellitus,,
+x4758011000006112,Type 2 diabetes mellitus with hyperosmolar coma,,
+x13791991000006116,Proteinuric nephropathy due to diabetes mellitus,,
+x7863811000006111,Lumbosacral plexopathy with diabetes mellitus,,
+x13953411000006118,At low risk of ulcer of right foot due to diabetes mellitus,,
+x14077471000006114,Advanced retinal disease due to diabetes mellitus,,
+x13953211000006119,Ulcer of left foot due to diabetes mellitus,,
+x928521000006112,Ketoacidotic coma in type 1 diabetes mellitus,C10EN00                                                         ,
+x8016621000006116,Gestational diabetes mellitus complicating pregnancy,,
+x280521000006117,Non-insulin dependent diabetes mellitus with mononeuropathy,C109A00                                                         ,
+x293756010,[X]Other specified diabetes mellitus,Cyu2000                                                         ,
+x292589019,Type II diabetes mellitus - poor control,C10F711                                                         ,
+x13761000006115,Other specified diabetes mellitus with neurological comps,C106y00                                                         ,
+x457330012,Type II diabetes mellitus without complication,C10F911                                                         ,
+x14084041000006114,Persistent proteinuria due to type 2 diabetes mellitus,,
+x12078901000006118,Cataract of right eye due to diabetes mellitus,,
+x12705071000006113,Gastroparesis due to type 1 diabetes mellitus,,
+x84431000006117,Type 1 diabetes mellitus with renal complications,C108012                                                         ,
+x14072461000006116,Neuropathy due to diabetes mellitus,,
+x13781000006113,Other specified diabetes mellitus with other spec comps,C10yy00                                                         ,
+x14083901000006110,Persistent microalbuminuria due to type 1 diabetes mellitus,,
+x84821000006118,Type I diabetes mellitus with ulcer,C108511                                                         ,
+x493774016,Type II diabetes mellitus,C10F.11                                                         ,
+x396671000006110,[X]Malnutrit-related diabetes mellitus with unspec complics,Cyu2200                                                         ,
+x2159980012,Maculopathy of left eye with diabetes mellitus,2BBX.00                                                         ,
+x771421000006113,Insulin dependent diabetes mellitus with ulcer,C108500                                                         ,
+x127051000006112,Steroid-induced diabetes mellitus without complication,C10B000                                                         ,
+x84501000006114,Type 2 diabetes mellitus with diabetic cataract,C109E12                                                         ,
+x5110001000006118,Pregnancy and type 2 diabetes mellitus,,
+x771331000006116,Insulin dependent diabetes mellitus with arthropathy,C108H00                                                         ,
+x616621000006115,Type 1 diabetes mellitus without complication,C100000                                                         ,
+x7966761000006115,Chronic kidney disease stage 2 due to type 2 diabetes mellitus,,
+x913471000006110,Insulin-dependent diabetes mellitus with ophthalmic comps,C10E112                                                         ,
+x84601000006110,Type 2 diabetes mellitus with polyneuropathy,C109B12                                                         ,
+x85011000006119,Type II diabetes mellitus without complication,C109911                                                         ,
+x14071361000006118,Preproliferative retinopathy due to diabetes mellitus,,
+x14071341000006117,Asymptomatic neuropathy due to diabetes mellitus,,
+x2288071000000116,Type 2 diabetes mellitus in remission,C10P111                                                         ,
+x15518018,Secondary diabetes mellitus,C10N.00                                                         ,
+x14174321000006116,Chronic kidney disease stage 5 due to drug induced diabetes mellitus,,
+x914061000006110,Type II diabetes mellitus with ophthalmic complications,C10F111                                                         ,
+x1223147012,Insulin treated Type II diabetes mellitus,C10FJ11                                                         ,
+x457329019,Type 2 diabetes mellitus without complication,C10F900                                                         ,
+x84371000006110,Type 1 diabetes mellitus with nephropathy,C108D12                                                         ,
+x84491000006118,Type 2 diabetes mellitus with arthropathy,C109G12                                                         ,
